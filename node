@@ -1,0 +1,14 @@
+node js hai khoob sara c++ ka code jo ki liya gaya hai chrome browser ke v8 engine ke  code se aur ye jo 
+c++ code jisko liya gaya hai  use wrap kar diya gaya hai js ke code se and ye hame allow karta hai ki ham js ki code likhe aur ye js code accept karega and c++ ke basis par aapko  ek server environment bana kar dega , par sirf tab tak , jab tak ye code chalayega jb tk aapka node (v8  engine and js wrapper)chalu hai
+
+
+Chrome mein ek engine hai jiska name hai V8 
+V8 engine code is in C++
+Iss Code ke pass hai server banane ki tagat but JS ke pass nhi
+Ek wrapper bana c++ ke code V8 engine ke server banane ke ...in core it is in c++ but the wrapper is in js
+SO dono ko combine karke NODEjs bana
+
+
+
+
+

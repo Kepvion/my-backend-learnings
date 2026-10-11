@@ -1,0 +1,26 @@
+express ek framework for node.js
+
+express ka use case => routing 
+
+
+
+routing =>
+
+https://www.facebook.com (base url)
+https://www.facebook.com/profile (/profile is a route ) (diff urls from base url )
+/profile = profile
+/contact = contact
+/like/pri = like post
+/comment/efg4qr2  = comment 
+/cart = cart 
+Alag alag route pr alag alag pages dikha paye that is routing 
+we can make many routes 
+
+
+TYPES OF ROUTE : GET , POST , PUT , PATCH ,DELETE  ...MORE
+
+GET AND POST (mainly used)
+GET route: Data url mein dikhta 
+POST route: Data url mein nhi dikhe
+
+

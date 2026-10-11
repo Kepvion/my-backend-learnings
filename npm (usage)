@@ -1,0 +1,18 @@
+npm se kuch install karna (how to install anything from npn refer npmjs.com)
+
+npm i packagename
+npm install packagename
+
+
+//INSTALL
+npm i 
+
+
+//USE
+
+
+var oneLinerJoke = require('one-liner-joke');
+
+
+//how to print results
+

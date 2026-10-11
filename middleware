@@ -1,0 +1,19 @@
+request aane ke baad and then route tk pahuchne se pehle ...that process is middleware
+
+
+middleware ek aisa function hai jo kisi bhi route se pehle chalta hai.
+jiska matlab aapka route chalne se pehle agar aap koi kaam karana chahte ho to middleware ka use karte hai
+
+
+route pr chalne se pehle print karo chala on console
+route chalne se pehle route pe hits counter ki value badhao
+
+iska matlab route chalne se pehle jo chalega wo hai middleware
+
+
+PROBLEM(DIKKAT)
+sirf ek dikkart hai agar hamara middleware chal gaya to request jam ho jati hai aur route tk nhi pahuch paati ...
+so we have to give a push ..   so we use next()  ..
+
+we can make many middleware (no limit)
+
